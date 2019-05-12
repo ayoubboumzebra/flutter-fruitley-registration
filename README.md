@@ -5,7 +5,7 @@ A new Flutter project.
 
 ![Image description](https://i.ibb.co/LSj3vqc/Flutter-fuitley-3.jpg)
 
-![Image description](https://i.ibb.co/WxVRcwC/Flutter-fuitley-2.jpg)
+![Image description](https://i.ibb.co/djMY5Yk/Flutter-fuitley-2.jpg)
 
 ## Getting Started
 
